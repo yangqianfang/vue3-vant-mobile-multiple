@@ -22,8 +22,8 @@
 - Installation dependencies 
 # with yarn
 
+```bash
 yarn install
-
 ```
 
 - run
